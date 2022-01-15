@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @peterbarkley
+- 👀 I’m interested in optimization.
