@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @peterbarkley
-- 👀 I’m interested in optimization.
+PhD candidate at Naval Postgraduate School
